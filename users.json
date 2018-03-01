@@ -1,5 +1,5 @@
 {
-    'name': 'Вася',
-    'age': 123,
-    'student': true
+    "name": "Вася",
+    "age": 123,
+    "student": true
 }
